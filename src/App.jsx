@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1 className='bg-red-700 '>Hello</h1>
+    </div>
   )
 }
 
